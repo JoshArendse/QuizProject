@@ -1,8 +1,9 @@
-# How well do you know your naruto shippudden?
+# How well do you know your Naruto Shippudden?
 ## Description
 ```
 This Quiz handles various general knowledge aspects from Naruto to Naruto Shippuden
 and includes history and 4th Great Ninja War Questions
+
 ```
 ## Software & Scripting Languages Used:
 - Visual Studio Language Editor
